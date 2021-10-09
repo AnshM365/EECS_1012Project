@@ -4,8 +4,9 @@ Group Name
   
 Members
 
-Ramtin Shahali   ram1997@my.yorku.ca  Section B Lab 4
-Ansh Manchanda   anshm@my.yorku.ca Section B Lab 4
+Ramtin Shahali ram1997@my.yorku.ca  Section B Lab 4
+
+Ansh Manchanda anshm@my.yorku.ca Section B Lab 4
 
 Project Title: Password Protected Diary
 
